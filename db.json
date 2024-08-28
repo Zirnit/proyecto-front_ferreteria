@@ -1,0 +1,28 @@
+{
+    "productos": [
+        {
+            "codigo": "001",
+            "nombre_producto": "Martillo",
+            "descripcion": "Herramienta de mano para golpear",
+            "cantidad": 10,
+            "precio": 15.99,
+            "fecha_creacion": "2022-01-01"
+        },
+        {
+            "codigo": "002",
+            "nombre_producto": "Destornillador",
+            "descripcion": "Herramienta para apretar o aflojar tornillos",
+            "cantidad": 20,
+            "precio": 9.99,
+            "fecha_creacion": "2022-01-02"
+        },
+        {
+            "codigo": "003",
+            "nombre_producto": "Sierra",
+            "descripcion": "Herramienta para cortar materiales",
+            "cantidad": 5,
+            "precio": 24.99,
+            "fecha_creacion": "2022-01-03"
+        }
+    ]
+}
